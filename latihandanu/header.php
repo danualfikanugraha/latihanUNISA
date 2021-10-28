@@ -1,0 +1,1 @@
+<?php $var=array('theme'=>'pro','status'=>'1','skin'=>'white-skin','subtheme'=>'admin','position'=>'1','browser_title'=>'latihan','menu_title'=>'latihandanu','menu_icon'=>'fab fa-acquisitions-incorporated','level'=>'admin','parent_menu'=>'latihandanu',);?>
